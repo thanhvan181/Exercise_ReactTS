@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "name": "Hu Herring  van",
+      "price": "47",
+      "description": "Quo est aut ut illu",
+      "id": 2
+    },
+    {
+      "name": "Kaseem Wall",
+      "price": "479",
+      "description": "Recusandae Adipisic",
+      "id": 3
+    },
+    {
+      "name": "India Cruz",
+      "price": "176",
+      "description": "At voluptatem sunt r",
+      "id": 4
+    },
+    {
+      "name": "Stuart Merritt",
+      "price": "15",
+      "description": "Unde quia eu eos ac",
+      "id": 5
+    },
+    {
+      "name": "Cheryl Emerson",
+      "price": "682",
+      "description": "Voluptatem vitae nul",
+      "id": 6
+    },
+    {
+      "name": "Whilemina Chandler",
+      "price": "674",
+      "description": "Quia accusamus ut mi",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "vanntph17034@fpt.edu.vn",
+      "password": "$2a$10$0Xb5We/NEf1r1nDLw7EXReX5NlRB2G1WvENWAOE8OWtXPlXvAc15W",
+      "id": 1
+    }
+  ]
+}
